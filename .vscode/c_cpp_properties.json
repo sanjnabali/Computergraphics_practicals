@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "windows-clang-x86",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/MinGW/include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:/MinGW/bin/g++.exe",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "windows-clang-x86"
+    }
+  ],
+  "version": 4
+}
