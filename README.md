@@ -51,17 +51,8 @@ This project showcases a highly detailed 3D animation of the Lamborghini Terzo, 
 - **Lighting Adjustment**: To change the lighting effects, go to the `Lighting` settings in the project file and tweak the sources for different visual styles.
 - **Motion Tuning**: Adjust the car’s movement and wheel rotation by editing the keyframes in the timeline.
 
-## Screenshots
-*Include any renderings or video clips showcasing your project.*
-
-![Lamborghini Terzo Animation Screenshot](path_to_screenshot.png)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-<<<<<<< HEAD
-- .vscode contains c_cpp_properties.json and task require modification according to your environment and types compiler
-=======
-- .vscode contains c_cpp_properties.json and task require modification according to your environment and types compiler
->>>>>>> 220d27a (Added file)
+
+
+
