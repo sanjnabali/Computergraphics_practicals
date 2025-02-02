@@ -26,4 +26,8 @@ cmd
 
 - Folder build where compiler generate .exe
 
+<<<<<<< HEAD
 - .vscode contains c_cpp_properties.json and task require modification according to your environment and types compiler
+=======
+- .vscode contains c_cpp_properties.json and task require modification according to your environment and types compiler
+>>>>>>> 220d27a (Added file)
